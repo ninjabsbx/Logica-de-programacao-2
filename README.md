@@ -8,3 +8,6 @@
 ## Atividade 1
 * [Exercicio 1](Exercicio1)
 * [Exercicio 2](Exercicio2)
+
+## Atividade 2
+*[Exercicio 3](Exercicio3)
