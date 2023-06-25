@@ -10,4 +10,4 @@
 * [Exercicio 2](Exercicio2)
 
 ## Atividade 2
-*[Exercicio 3](Exercicio3)
+* [Exercicio 3](Exercicio3)
