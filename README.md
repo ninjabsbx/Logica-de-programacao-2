@@ -11,3 +11,15 @@
 
 ## Atividade 2
 * [Exercicio 3](Exercicio3)
+
+## Atividade 3
+* [Exercicio 4](Exercicio4)
+
+## Atividade 4
+* [Exercicio 5](Exercicio5)
+
+* ## Atividade 5
+* [Exercicio 6](Exercicio6)
+  
+* ## Atividade 6
+* [Exercicio 7](Exercicio7)
